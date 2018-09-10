@@ -20,7 +20,7 @@ set :keep_releases, 5
 
 set :rvm_type, :user
 
-set :rvm_ruby_version, 'ruby-2.4.0' # Should match ruby version
+set :rvm_ruby_version, 'ruby-2.4.4' # Should match ruby version
 
 
 
