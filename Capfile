@@ -21,7 +21,6 @@ require 'capistrano/rails'
 require 'capistrano/rails/migrations'
 require 'capistrano/rails/assets'
 require 'capistrano/puma'
-require 'puma/capistrano'
 
 # Include tasks from other gems included in your Gemfile
 #
